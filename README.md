@@ -50,7 +50,7 @@ CONTAINER ID   IMAGE                      COMMAND                   CREATED     
 ```bash
 $ docker compose ls
 NAME                   STATUS              CONFIG FILES
-docker-compose-trial   running(2)          /Users/tfujino/programming/docker-compose-trial/compose.yaml
+docker-compose-trial   running(2)          /programming/docker-compose-trial/compose.yaml
 
 $ docker compose ps
 NAME                           IMAGE                      COMMAND                   SERVICE   CREATED         STATUS         PORTS
